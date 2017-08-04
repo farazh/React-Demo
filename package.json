@@ -19,7 +19,8 @@
     "webpack-dev-server": "^1.14.1"
   },
   "scripts": {
-    "start": "webpack-dev-server --content-base src --inline --hot"
+    "start": "webpack-dev-server --inline --hot"
   },
+  "homepage": "https://farazh.github.io/first-react-app",
   "license": "MIT"
 }
